@@ -5,12 +5,12 @@
 4. jUnit 5.x
 5. Page object pattern
 
-# Structure of project:
+## Structure of project:
 
 ### Tests for the page:
 [Automationpractice](http://automationpractice.com )
 
-## Added:
+### Added:
 
 | to pageobjects:       | to tests:                                  | to utils:  |
 | --------------------- |:------------------------------------------:|-----------:|
