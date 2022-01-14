@@ -7,7 +7,7 @@
 
 # Structure of project
 
-### Tests for page:
+### Tests for the page:
 [Automationpractice](http://automationpractice.com )
 
 ## Added:
