@@ -12,11 +12,11 @@
 
 ## Added:
 
-| to pageobjects:       | to tests:                                  | to utils:  |
-| --------------------- |:------------------------------------------:|-----------:|
-| BasicPage             | BasicTest                                  | RandomUser |
-| HomePage              | CartTest                                   |            |
-| LoginPage             | LoginTest, NegativeLoginTest, LogoutTest   |            |
-| ProductsPage          | ItemSearchTest1, ItemSearchTest2           |            |
-| RegisterAccountPage   | RegisterAccountTest1, RegisterAccountTest2 |            |
-| SearchResultPage      |                                            |            |
+| to pageobjects:       | to tests:                                      | to utils:  |
+| --------------------- |:----------------------------------------------:|-----------:|
+| BasicPage             | BasicTest                                      | RandomUser |
+| HomePage              | CartTest                                       |            |
+| LoginPage             | LoginTest, NegativeLoginTest, LogoutTest       |            |
+| ProductsPage          | ItemSearchTest1, ItemSearchTest2               |            |
+| RegisterAccountPage   | RegisterAccountTest1, RegisterAccountTest2     |            |
+| SearchResultPage      |                                                |            |
